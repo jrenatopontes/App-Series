@@ -1,4 +1,4 @@
-# Criando um APP de cadastro de series
+# Criando um APP de cadastro de séries
 
 ## Contato
 
