@@ -1,4 +1,4 @@
-# Criando um APP de cadastro em memória
+# Criando um APP de cadastro de series
 
 ## Contato
 
